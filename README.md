@@ -3,6 +3,9 @@ PHP Jahreskalender als Docker Container
 Gibt eine HTML Seite aus mit Anzeige der Kalenderwochen.  
 Blendet Termine ein.
 
+Vorbereiten:    
+Aus dem Verzeichnis die Datei "docker-compose.yaml" herunterladen.  
+
 Docker Container starten:  
 docker compose up -d  
 
