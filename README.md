@@ -21,3 +21,5 @@ Starten im Webbrowser unter der Adresse "localhost" oder "127.0.0.1"
 Ein Jahr zurückblättern mit Mausklick auf das Monatsfeld Januar.  
 Ein Jahr vorblättern mit Mausklick auf das Monatsfeld Dezember.  
 Termine eingeben mit Mausklick auf den Buchstaben d im Wort Kalender  
+
+Bei Fragen erreicht Ihr mich im Heimnetz Forum: https://forum.heimnetz.de/threads/jahreskalender.7330/
