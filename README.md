@@ -6,7 +6,7 @@ Blendet Termine ein.
 <b>Vorbereiten:</b>    
 Aus dem Verzeichnis die Datei "docker-compose.yaml" herunterladen.  
 
-<b>Docker Container starten:>/b>  
+<b>Docker Container starten:</b>  
 docker compose up -d  
 
 <b>Docker Container beenden:</b>  
