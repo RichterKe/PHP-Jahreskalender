@@ -4,7 +4,7 @@ Gibt eine HTML Seite aus mit Anzeige der Kalenderwochen.
 Blendet Termine ein.
 
 <b>Vorbereiten:</b>    
-Aus dem Verzeichnis die Datei "docker-compose.yaml" herunterladen.  
+Aus dem Verzeichnis "docker" die Datei "docker-compose.yaml" herunterladen.  
 
 <b>Docker Container starten:</b>  
 docker compose up -d  
