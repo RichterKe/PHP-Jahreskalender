@@ -1,0 +1,29 @@
+// Datendatei Kalender
+//
+// <Datum> <T vorher> <T nachher> <kommentar>
+// oder
+// <wt> 0 0 <kommentar>
+//
+// <Datum> Format: tt.mm.jjjj 
+//                 Wiederholung: jährlich - tt.mm.9999
+//                               monatlich - tt.99.9999 
+//                               täglich - 99.99.9999
+//         Format: wt (Mo, Di, Mi, Do, Fr, Sa, So) -> an diesem Wochentag
+//
+// <T vorher> und <T nachher> geben an wieviel Tage vorher oder nachher die 
+// Markierung für den Termin eingeblendet wird.
+// 
+// Im Kommentar sind keine Leerzeichen erlaubt und müssen durch _ ersetzt werden
+//
+// * Wöchentlich
+Fr 0 0 Treppe_putzen
+// * Monatlich *
+30.99.9999 1 1 Geld_ueberweisen
+// * Jährlich *
+12.04.9999 14 0 Oma_Geburtstag
+24.12.9999 14 0 Weihnachten
+// Termine
+05.04.2026 10 3 Ostern_2026
+11.11.2026 14 3 Fastnacht
+
+
