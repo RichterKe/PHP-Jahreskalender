@@ -1,8 +1,10 @@
 services:
   jahreskalender:
-    image: richterke/kalender:v2.0
+    image: richterke/kalender:v3.0
     container_name: jahreskalender
     ports:
       - 80:80
     restart: unless-stopped
+    volumes:
+      - ./kalenderdaten:/var/www/html/daten:rw
 
