@@ -26,3 +26,6 @@ Termine eingeben mit Mausklick auf den Buchstaben d im Wort Kalender
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;von dort geladen
 
 Bei Fragen erreicht Ihr mich im Heimnetz Forum: https://forum.heimnetz.de/threads/jahreskalender.7330/
+oder
+https://forum.heimnetz.de/threads/docker-jahreskalender.7346/
+
